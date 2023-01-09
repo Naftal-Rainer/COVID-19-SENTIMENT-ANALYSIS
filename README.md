@@ -5,3 +5,4 @@ Among other things, the goal is to investigate:
 - text processing 
 - sentiment analysis 
 - keyword extraction.
+- Entity Extraction.h
